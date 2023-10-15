@@ -6,19 +6,19 @@ h1{
  .text {
 
    background-image: url(opis.jpg);
-   width: 70vmin;
-  /* background-color: powderblue;*/
-   height: 30vmin;
+   width: 75vmin;
+   background-color: powderblue;
+   height: 35vmin;
    /*Center and scale the image nicely */
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
-        margin-left: 10vmin;
+        margin-left: 30vmin;
         margin-bottom: 2vmin;
 
         display: block;
        
-        width: 50%;
+        
   
     
  }
