@@ -14,7 +14,7 @@ h1{
         background-repeat: no-repeat;
         background-size: contain;
         margin-left: 10vmin;
-        margin-bottom: 10vmin;
+        margin-bottom: 2vmin;
 
         display: block;
         margin-left: auto;
@@ -92,7 +92,7 @@ transform: translate(-50%, -50%);
    font-weight: bold;
    margin-top: 8%;
    margin-left:4vmin;
-   padding-left: 4vmin;
+  
   
 
 }
@@ -104,6 +104,13 @@ transform: translate(-50%, -50%);
    margin-left:4vmin;
 }
 
+#Slike2
+{
+   font-weight: bold;
+   margin-top: 4vmin;
+   font-size:20px;
+   margin-left:4vmin;
+}
 
 #Kontakt
 {
@@ -131,18 +138,19 @@ transform: translate(-50%, -50%);
 
    width: 70vmin;
   /* background-color: powderblue;*/
-   height: 30vmin;
+   height: 50vmin;
    /*Center and scale the image nicely */
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
         margin-left: 10vmin;
         margin-bottom: 10vmin;
+        
 
-        display: block;
-        margin-left: auto;
+        display: inline-flex;
+       /* margin-left: auto;
         margin-right: auto;
-        width: 50%;
+        width: 50%;*/
   
     
  }
