@@ -5,15 +5,15 @@ h1{
 
  .text {
 
-   background-image: url(opis.jpg);
+   background-image: url(opis.JPG);
    width: 75vmin;
    background-color: powderblue;
    height: 35vmin;
    /*Center and scale the image nicely */
-        background-position: center;
+        background-position: center center;
         background-repeat: no-repeat;
         background-size: contain;
-        margin-left: 30vmin;
+        margin-left: 8em;
         margin-bottom: 2vmin;
 
   
