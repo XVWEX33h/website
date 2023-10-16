@@ -10,16 +10,16 @@ h1{
    /*background-color: powderblue;*/
    height: 35vmin;
    /*Center and scale the image nicely */
-        background-position: center center;
+        background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
-        margin-left: 8em;
-        margin-bottom: 2vmin;
+     /*   margin-left: 12vmin;
+        margin-bottom: 2vmin;*/
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
 
-  
-       
-        
-  
     
  }
 
@@ -57,7 +57,7 @@ h1{
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;
-        margin-left: 10vmin;
+        margin-left: 6vmin;
 }
 .centar-text{
 
