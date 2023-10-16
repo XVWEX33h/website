@@ -7,7 +7,7 @@ h1{
 
    background-image: url(opis.JPG);
    width: 75vmin;
-   background-color: powderblue;
+   /*background-color: powderblue;*/
    height: 35vmin;
    /*Center and scale the image nicely */
         background-position: center center;
